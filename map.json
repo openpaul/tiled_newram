@@ -80,7 +80,13 @@
          "height":34,
          "id":18,
          "name":"B22_entry",
-         "opacity":0,
+         "opacity":0.2,
+         "properties":[
+                {
+                 "name":"startLayer",
+                 "type":"bool",
+                 "value":true
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
