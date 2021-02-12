@@ -49,7 +49,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"rooms\/b21.json"
+                 "value":"b21.json"
                 }],
          "type":"tilelayer",
          "visible":true,
