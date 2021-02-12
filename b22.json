@@ -37,7 +37,7 @@
                 {
                  "name":"exitSceneUrl",
                  "type":"string",
-                 "value":"map.json"
+                 "value":"map.json#B22_entry"
                 }],
          "type":"tilelayer",
          "visible":true,
