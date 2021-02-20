@@ -164,7 +164,7 @@
          "height":34,
          "id":41,
          "name":"B20_entry",
-         "opacity":0,
+         "opacity":1,
          "type":"tilelayer",
          "visible":true,
          "width":46,
