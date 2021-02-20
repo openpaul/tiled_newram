@@ -76,7 +76,7 @@
          "name":"loch",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -88,7 +88,7 @@
          "objects":[],
          "opacity":0,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -99,7 +99,7 @@
          "name":"moebel",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -110,8 +110,14 @@
          "id":20,
          "name":"tische",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"B22"
+                }],
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -123,7 +129,7 @@
          "name":"stuehle",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -135,7 +141,7 @@
          "name":"object_hinten",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
@@ -147,7 +153,7 @@
          "name":"object_vorne",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":50,
          "x":0,
          "y":0
